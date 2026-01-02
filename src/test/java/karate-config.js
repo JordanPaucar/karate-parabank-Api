@@ -6,8 +6,8 @@ function fn() {
     baseUrl: 'https://parabank.parasoft.com/parabank/services/bank',
 
     credentials: {
-      username: 'ddddd',
-      password: 'ddddd',
+      username: 'eeeee',
+      password: 'eeeee',
       usernamewrong: 'hola123',
       passwordwrong: 'testwrong'
     }
