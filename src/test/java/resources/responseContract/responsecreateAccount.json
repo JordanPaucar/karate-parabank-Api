@@ -1,0 +1,6 @@
+{
+  "id": "#number",
+  "customerId": "#number",
+  "type": "#string",
+  "balance": "#number"
+}
