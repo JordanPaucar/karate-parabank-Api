@@ -26,5 +26,5 @@ Feature: Crear nueva cuenta bancaria
     And match response.balance == 0
     And match response.type == 'SAVINGS'
 
-  # Exponer nueva cuenta
+  # Guardar id nueva cuenta
     * def newAccountId = response.accountId
